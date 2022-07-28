@@ -2,6 +2,7 @@
 
 # Github https://github.com/diegorodd/note-taker
 # deployed link http://localhost:3001/notes
+# ![screenshot](note-taker.png)
 # Description
 Website that creates notes to be better and organize and helping you be less messy!!
 
